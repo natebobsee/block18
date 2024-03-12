@@ -2,6 +2,8 @@
 //if two numbers are input return result.
 //if only one number is input return error
 //if something other than a number is input return error
+//is the output the multiplication of the two input numbers
+//are the inputs logged and the reset for new inputs during the multiply process
 
 //COncatOdds
 //are only two lists of numbers provided, error if anything else
@@ -10,6 +12,7 @@
 //is the output put in assending order 
 //is the output only odd  numbers.
 //does the output include the odds from both inputs
+//are inputs logged and then reset for new inputs during the concat process
 
 
 //shopping cart
