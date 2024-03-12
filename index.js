@@ -5,12 +5,12 @@
 
 //COncatOdds
 //are only two lists of numbers provided, error if anything else
-//does the output contain odds from both lists
 //does the output delete any repeating numbers
 //does the output ignore extranious cases
 //is the output put in assending order 
 //is the output only odd  numbers.
 //does the output include the odds from both inputs
+
 
 //shopping cart
 //Is the user allowed to check out as both a user and a guest.
