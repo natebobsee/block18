@@ -25,4 +25,4 @@
 //does the cart remember the order if the user logs out before buying
 //does the cart allow users to delete items from the cart.
 //does the cart allow users to add multiples of items already in cart
-//
+//does the cart allow the user to enter payment information.
